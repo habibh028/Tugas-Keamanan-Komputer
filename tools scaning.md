@@ -21,15 +21,16 @@
    ```
 
 2. **Perintah Dasar:**
-   - Scan satu IP address:
-     ```bash
-     nmap 192.168.1.1
-     ```
-   - Scan seluruh jaringan:
-     ```bash
-     nmap 192.168.1.0/24
-     ```
+   - Scan satu Alamat/IP address:
+   <img width="417" alt="Screen Shot 2024-09-17 at 23 27 04" src="https://github.com/user-attachments/assets/6b6ea388-2336-4ee5-99f9-0f4b07ef994b">
 
+   - Melakukan scan port tertentu:
+   <img width="409" alt="Screen Shot 2024-09-17 at 23 29 36" src="https://github.com/user-attachments/assets/e00c32d9-26f5-489e-a936-3aeaef3c9664">
+
+   - Scan lebih mendalam (service version):
+   <img width="413" alt="Screen Shot 2024-09-17 at 23 31 01" src="https://github.com/user-attachments/assets/18b5d649-ddea-4d41-b98e-06be3dc7f263">
+
+   
 ---
 
 ## 2. Zenmap
@@ -86,6 +87,7 @@
      ipscan
      ```
    - Masukkan range IP, lalu klik "Start" untuk memulai scanning.
+   <img width="400" alt="Screen Shot 2024-09-18 at 00 00 45" src="https://github.com/user-attachments/assets/0965f0f0-7753-408d-b669-c5340eeb3699">
 
 ---
 
