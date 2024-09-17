@@ -99,26 +99,3 @@
 
 
 
-### Cara Mengunggah ke GitHub:
-1. **Buat repository baru** di GitHub Anda, jika belum ada:
-   - Kunjungi [GitHub](https://github.com) dan buat repository baru.
-   
-2. **Clone repository** ke lokal komputer:
-   ```bash
-   git clone https://github.com/username/repository.git
-   ```
-
-3. **Buat file `.md`** di repository lokal Anda:
-   - Buat file bernama `Laporan_Scanning_Tools.md` di dalam folder repository:
-     ```bash
-     nano Laporan_Scanning_Tools.md
-     ```
-   - Salin isi laporan di atas ke file tersebut, lalu simpan.
-
-4. **Upload file ke GitHub**:
-   - Tambah file ke git, commit, dan push:
-     ```bash
-     git add Laporan_Scanning_Tools.md
-     git commit -m "Menambahkan laporan perbandingan tools scanning"
-     git push origin main
-     ```
